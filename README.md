@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 📊 DATA ANALYZER AND TRANSFORMER
 
 ### Python Functional Programming Project --- PR-4
@@ -106,7 +106,7 @@ Main Menu:
 Please enter your choice:
 ```
 
-## Step 1 --- Input Data
+## 1 --- Input Data
 
 **Purpose:** Enter numerical values and store them in a 1D list.
 
@@ -125,7 +125,7 @@ Stored dataset:
 [34, 12, 56, 78, 43, 21, 90]
 ```
 
-## Step 2 --- Display Data Summary
+## 2 --- Display Data Summary
 
 **Purpose:** Display the number of elements, minimum, maximum, sum, and
 average using built-in functions.
@@ -141,7 +141,7 @@ Data Summary:
 - Average value: 47.71
 ```
 
-## Step 3 --- Calculate Factorial (Recursion)
+## 3 --- Calculate Factorial (Recursion)
 
 **Purpose:** Calculate the factorial of a non-negative integer using
 recursion.
@@ -162,7 +162,7 @@ Calculation:
    = 120
 ```
 
-## Step 4 --- Filter Data by Threshold
+## 4 --- Filter Data by Threshold
 
 **Purpose:** Select values greater than or equal to the threshold
 entered by the user.
@@ -177,7 +177,7 @@ Filtered Data (values >= 50):
 56, 78, 90
 ```
 
-## Step 5 --- Sort Data
+## 5 --- Sort Data
 
 **Purpose:** Arrange values in ascending or descending order.
 
@@ -200,7 +200,7 @@ Descending order example:
 90, 78, 56, 43, 34, 21, 12
 ```
 
-## Step 6 --- Display Dataset Statistics
+## 6 --- Display Dataset Statistics
 
 **Purpose:** Return and display multiple statistics from a single
 user-defined function.
@@ -215,7 +215,7 @@ Dataset Statistics:
 - Average value: 47.71
 ```
 
-## Step 7 --- Exit Program
+## 7 --- Exit Program
 
 **Purpose:** Exit the application from the main menu.
 
@@ -266,7 +266,6 @@ python data_analyzer.py
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### Thank You for Visiting!
 
 **Data Analyzer and Transformer**\
